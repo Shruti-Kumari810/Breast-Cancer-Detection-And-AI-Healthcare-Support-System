@@ -1,0 +1,13 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["backend", "frontend", "."]
+addopts = "-q --cov=backend/app --cov=ml_models/scripts --cov-report=term-missing"
+
+[tool.coverage.run]
+branch = true
+source = ["backend/app", "ml_models/scripts"]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 90
+
