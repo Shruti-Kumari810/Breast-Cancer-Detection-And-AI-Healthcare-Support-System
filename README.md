@@ -153,7 +153,7 @@ Target Classes:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/breast-cancer-detection-system.git
+git clone https://github.com/Shruti-Kumari810/breast-cancer-detection-system.git
 ```
 
 ---
@@ -311,9 +311,9 @@ B.Tech CSE (AI & ML)
 
 Asansol Engineering College
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/Shruti-Kumari810
 
-LinkedIn: https://linkedin.com/in/YourProfile
+LinkedIn: https://www.linkedin.com/in/shruti-kumari-2b784b325/
 
 ---
 
