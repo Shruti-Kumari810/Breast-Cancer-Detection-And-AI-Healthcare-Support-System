@@ -84,6 +84,10 @@ streamlit run frontend\app.py
 docker compose up --build
 ```
 
+## 🌐 Live Demo
+
+🔗 https://breast-cancer-detection-and-ai-healthcare-support-system-9sjcx.streamlit.app
+
 ## Important Medical Disclaimer
 
 This software provides clinical decision support only. It is not a medical diagnosis system and must not replace evaluation by qualified healthcare professionals.
