@@ -83,10 +83,14 @@ streamlit run frontend\app.py
 ```bash
 docker compose up --build
 ```
+## Live Demo 
+### 🌐 Frontend (Streamlit)
 
-## 🌐 Live Demo
+https://breast-cancer-detection-and-ai-healthcare-support-system-9sjcx.streamlit.app
 
-🔗 https://breast-cancer-detection-and-ai-healthcare-support-system-9sjcx.streamlit.app
+### ⚙️ Backend API (FastAPI)
+
+https://breast-cancer-detection-and-ai.onrender.com/docs
 
 ## Important Medical Disclaimer
 
